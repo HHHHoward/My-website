@@ -1,3 +1,6 @@
 body {
     background-image: radial-gradient(50% 150%, #787B7D 5%, #4B5052 100%);
 }
+p{
+    color:red;
+}
